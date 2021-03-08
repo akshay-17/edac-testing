@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdce826e.chunk.css",
+    "main.js": "/static/js/main.f4301b88.chunk.js",
+    "main.js.map": "/static/js/main.f4301b88.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.579f8f0a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.579f8f0a.js.map",
+    "static/js/2.d717c31a.chunk.js": "/static/js/2.d717c31a.chunk.js",
+    "static/js/2.d717c31a.chunk.js.map": "/static/js/2.d717c31a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cdce826e.chunk.css.map": "/static/css/main.cdce826e.chunk.css.map",
+    "static/js/2.d717c31a.chunk.js.LICENSE.txt": "/static/js/2.d717c31a.chunk.js.LICENSE.txt",
+    "static/media/addcart.34a51ed8.png": "/static/media/addcart.34a51ed8.png",
+    "static/media/contact.5489f75b.png": "/static/media/contact.5489f75b.png",
+    "static/media/lcomerchlogo.ad4b345e.png": "/static/media/lcomerchlogo.ad4b345e.png",
+    "static/media/removecart.47b7aa0a.png": "/static/media/removecart.47b7aa0a.png",
+    "static/media/userdashboard.ebe4f88b.jpg": "/static/media/userdashboard.ebe4f88b.jpg",
+    "static/media/vector1.9830840f.png": "/static/media/vector1.9830840f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.579f8f0a.js",
+    "static/js/2.d717c31a.chunk.js",
+    "static/css/main.cdce826e.chunk.css",
+    "static/js/main.f4301b88.chunk.js"
+  ]
+}
